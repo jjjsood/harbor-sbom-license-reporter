@@ -1,0 +1,5 @@
+# Example image references for local testing.
+# Replace these with images available in your Harbor instance.
+
+harbor.example.com/library/nginx:1.25
+harbor.example.com/demo/backend:latest
